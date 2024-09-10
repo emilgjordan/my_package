@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilgjordan/my_package.git"
+  },
   "author": "Emil Jordan",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilgjordan/my_package/issues"
+  },
+  "homepage": "https://github.com/emilgjordan/my_package#readme"
 }
