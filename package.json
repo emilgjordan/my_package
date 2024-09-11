@@ -1,8 +1,8 @@
 {
   "name": "my_package",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "My Package Description",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/emilgjordan/my_package/issues"
   },
-  "homepage": "https://github.com/emilgjordan/my_package#readme"
+  "homepage": "https://github.com/emilgjordan/my_package#readme",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.6.2"
+  }
 }
