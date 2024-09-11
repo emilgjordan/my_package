@@ -2,7 +2,7 @@
   "name": "@emiljordan/my_package",
   "version": "0.2.0",
   "description": "My Package Description",
-  "main": "./index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "tsc"
   },
