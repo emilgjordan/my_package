@@ -3,6 +3,7 @@
   "version": "0.2.2",
   "description": "My Package Description",
   "main": "./dist/index.js",
+  "types": "./dist/types/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
