@@ -1,6 +1,6 @@
 {
   "name": "@emiljordan/my_package",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "My Package Description",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
